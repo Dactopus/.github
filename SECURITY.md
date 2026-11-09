@@ -1,6 +1,6 @@
 # Security policy
 
-Report a vulnerability in any Dactopus repository to security@dactopus.com, not in a public issue or discussion.
+Report a vulnerability in any Dactopus repository to security@dactopus.com or through Report a vulnerability on the repository's Security tab, not in a public issue or discussion.
 
 Include:
 
